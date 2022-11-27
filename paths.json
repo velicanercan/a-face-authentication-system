@@ -1,0 +1,23 @@
+{
+    "HomeUIPath":"./ui_data/homeScreen.ui",
+    "UserUIPath":"./ui_data/dataset.ui",
+    "TrainingUIPath":"./ui_data/training.ui",
+    "AuthUIPath":"./ui_data/auth.ui",
+    "UserDatasetPath":"./usr/",
+    "TempFolderPath":"./tmp/",
+    "AuthenticationImgPath":"./tmp/tmp.1.jpg",
+    "MLDatasetPath":"./train/",
+    "MLModelsPath":"./ml_models/",
+    "HaarCascadePath":"./ml_models/haarcascade_frontalface_default.xml",
+    "BestModelPath":"./ml_models/best_model.hdf5",
+    "BestModelv2Path":"./ml_models/best_model_v2.hdf5",
+    "BestModelv3Path":"./ml_models/best_model_v3.hdf5",
+    "DecisionTreeModel":"./ml_models/decisionTree_model.pkl",
+    "KNNModel":"./ml_models/KNN_model.pkl",
+    "LinearSVMModel":"./ml_models/linearSVM_model.pkl",
+    "RBFModel":"./ml_models/RBF_model.pkl",
+    "KerasPath":"./ml_models/keras.hdf5",
+    "TrainingFeatures":"./train/train_Features_new.csv",
+    "MailAddress":"xxx@xx.com",
+    "MailPass":"xx"
+}
